@@ -6,4 +6,4 @@ Back-End : PHP, MySQL
 
 
 <img src="https://i.imgur.com/fRBIKrf.png">
-<img src="https://i.imgur.com/GpoAFDE.png">
+<img src="https://i.imgur.com/vaFsQnH.png">
